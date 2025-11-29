@@ -5,7 +5,7 @@ import json
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
 # The prompt you want to send
-prompt = "Are you offline right now?, What i mean is im running this on my local machine, so are you able to access the internet? And when you answer do you use your own local data or do you access the internet to answer my questions?"
+prompt = "Hello"
 
 # Build the request payload
 payload = {
