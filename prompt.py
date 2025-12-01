@@ -10,7 +10,7 @@ print("Type 'exit' or 'quit' to end the session.")
 print("------------------------------------------")
 
 while True:
-    prompt = input(">>>: ")
+    prompt = input(">>> ")
     if prompt.lower() in ["exit", "quit"]:
         break
 
