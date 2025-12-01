@@ -10,6 +10,6 @@ Most software is available via standard package managers or direct downloads:
 - Just command runner | https://github.com/casey/just
 
 ## Setup Instructions
-1. Run `Ollama serve ` to start the local Ollama server and keep it running
-2. If its your first time running, run `Ollama pull llama3.1` to download the model, you can choose any model you like
+1. Run `ollama serve ` to start the local Ollama server and keep it running
+2. If its your first time running, run `ollama pull llama3.1` to download the model, you can choose any model you like
 3. Run `just run` to start the prompt interface
